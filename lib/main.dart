@@ -1,5 +1,5 @@
 import 'package:ffmpeg_slideshow/Pages/home_page.dart';
-import 'package:ffmpeg_slideshow/Bloc/GalleryBloc/gallery_state.dart';
+import 'package:ffmpeg_slideshow/Bloc/GalleryBloc/gallery_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

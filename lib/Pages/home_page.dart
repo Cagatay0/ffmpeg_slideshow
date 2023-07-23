@@ -1,4 +1,4 @@
-import 'package:ffmpeg_slideshow/Bloc/GalleryBloc/gallery_state.dart';
+import 'package:ffmpeg_slideshow/Bloc/GalleryBloc/gallery_bloc.dart';
 import 'package:ffmpeg_slideshow/Widgets/HomePageWidgets/have_images_widget.dart';
 import 'package:ffmpeg_slideshow/Widgets/HomePageWidgets/not_have_images_widget.dart';
 import 'package:flutter/material.dart';
